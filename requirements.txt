@@ -1,2 +1,3 @@
 pip install faker
 pip install pyodbc
+pip intsall pandas
